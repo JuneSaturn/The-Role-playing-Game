@@ -1,0 +1,10 @@
+C:\Users\PC\Dropbox\Small Projects\C# Projects\The Role-playing Game\The Role-playing Game\bin\Debug\The Role-playing Game.exe.config
+C:\Users\PC\Dropbox\Small Projects\C# Projects\The Role-playing Game\The Role-playing Game\bin\Debug\The Role-playing Game.exe
+C:\Users\PC\Dropbox\Small Projects\C# Projects\The Role-playing Game\The Role-playing Game\bin\Debug\The Role-playing Game.pdb
+C:\Users\PC\Dropbox\Small Projects\C# Projects\The Role-playing Game\The Role-playing Game\obj\Debug\TheRPGEditor.csproj.AssemblyReference.cache
+C:\Users\PC\Dropbox\Small Projects\C# Projects\The Role-playing Game\The Role-playing Game\obj\Debug\The_Role_playing_Game.mainForm.resources
+C:\Users\PC\Dropbox\Small Projects\C# Projects\The Role-playing Game\The Role-playing Game\obj\Debug\The_Role_playing_Game.Properties.Resources.resources
+C:\Users\PC\Dropbox\Small Projects\C# Projects\The Role-playing Game\The Role-playing Game\obj\Debug\TheRPGEditor.csproj.GenerateResource.cache
+C:\Users\PC\Dropbox\Small Projects\C# Projects\The Role-playing Game\The Role-playing Game\obj\Debug\TheRPGEditor.csproj.CoreCompileInputs.cache
+C:\Users\PC\Dropbox\Small Projects\C# Projects\The Role-playing Game\The Role-playing Game\obj\Debug\The Role-playing Game.exe
+C:\Users\PC\Dropbox\Small Projects\C# Projects\The Role-playing Game\The Role-playing Game\obj\Debug\The Role-playing Game.pdb
